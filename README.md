@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hrushon
 - 👀 I’m interested in Python and all, all, all..
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on any
+- 💞️ I’m looking to any collaborate
 - 📫 How to reach me stebljan@ya.ru
 
 <!---
