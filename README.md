@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hrushon
+- 👋 Hi, I’m Ilya
 - 👀 I’m interested in Python and all, all, all..
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to any collaborate
