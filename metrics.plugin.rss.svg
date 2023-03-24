@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">История о том, как прочитать 120 тысяч анекдотов и не рассмеяться раньше времени</div>
-                                <div class="date">22 Mar 2023</div>
+                                <div class="title">Решаем задачу по взаимодействию микросервисов на Python тремя способами</div>
+                                <div class="date">23 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Может ли chatGPT забронировать столик в ресторане через WhatsApp?</div>
-                                <div class="date">20 Mar 2023</div>
+                                <div class="title">[Перевод] Как запустить часть большого ИИ на слабом железе</div>
+                                <div class="date">22 Mar 2023</div>
                             </div>
                         </div>
                     </section>
