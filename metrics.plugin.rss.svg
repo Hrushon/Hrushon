@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Проверяем ветхозаветную историю происхождения человечества от Адама и Евы с помощью популяционной модели</div>
-                                <div class="date">18 Apr 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Как подключить платежную систему с Payments к Telegram</div>
                                 <div class="date">19 Apr 2023</div>
                             </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Создай своего ИИ-ассистента с помощью ChatGPT и Streamlit</div>
-                                <div class="date">18 Apr 2023</div>
+                                <div class="title">[Перевод] StackLLaMA: практическое руководство по обучению LLaMA с помощью RLHF</div>
+                                <div class="date">24 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Перевод] StackLLaMA: практическое руководство по обучению LLaMA с помощью RLHF</div>
-                                <div class="date">24 Apr 2023</div>
+                                <div class="title">Быстрое нахождениe остатка от деления больших чисел для делителей специального вида</div>
+                                <div class="date">23 Apr 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">[Перевод] Отладка C при помощи пакета Cosmopolitan Libc</div>
+                                <div class="date">21 Apr 2023</div>
                             </div>
                         </div>
                     </section>
