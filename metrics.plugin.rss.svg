@@ -20,8 +20,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Чат-боты на все случаи жизни. 7 инструкций по созданию мини-приложений в Telegram</div>
-                                <div class="date">2 Aug 2023</div>
+                                <div class="title">[Перевод] Что происходит, когда запускаешь «Hello World» в Linux</div>
+                                <div class="date">9 Aug 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Дифференциальная диагностика неисправных шарниров равных угловых скоростей по спектру вибраций</div>
+                                <div class="date">9 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Создание deepfake видео и синтез речи open-source проект Wunjo AI</div>
                                 <div class="date">7 Aug 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Мы провели PyCon Russia 2023</div>
-                                <div class="date">5 Aug 2023</div>
                             </div>
                         </div>
                     </section>
