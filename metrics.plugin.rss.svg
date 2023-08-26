@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Простая нейронная сеть без библиотек и матриц. Эволюционный алгоритм</div>
-                                <div class="date">18 Aug 2023</div>
+                                <div class="title">Как правильно дифференцировать дискретные функции (Часть 2. Все-таки, МКЭ?)</div>
+                                <div class="date">24 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Перевод] Расширение возможностей веб-приложений с помощью WebAssembly и Python</div>
-                                <div class="date">18 Aug 2023</div>
+                                <div class="title">Мультиплеер PyGame. Пишем сервер и клиент. Часть 1</div>
+                                <div class="date">22 Aug 2023</div>
                             </div>
                         </div>
                     </section>
