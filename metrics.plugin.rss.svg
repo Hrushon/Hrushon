@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Анализ 10 000 вопросов с технических интервью: частотность и вероятность встречи</div>
-                                <div class="date">24 Oct 2023</div>
+                                <div class="title">[Перевод] Как в 180 000 раз ускорить анализ данных с помощью Rust</div>
+                                <div class="date">27 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Перевод] Как в 180 000 раз ускорить анализ данных с помощью Rust</div>
-                                <div class="date">27 Oct 2023</div>
+                                <div class="title">Анализ 10 000 вопросов с технических интервью: частотность и вероятность встречи</div>
+                                <div class="date">24 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Малоизвестные библиотеки Python для анализа данных, которые сделают вашу жизнь проще</div>
-                                <div class="date">23 Oct 2023</div>
+                                <div class="title">Разработка real-time приложений с Python и WebSocket</div>
+                                <div class="date">28 Oct 2023</div>
                             </div>
                         </div>
                     </section>
