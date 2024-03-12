@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Шпаргалка для алгособеса 2 — графовые и строковые алгоритмы</div>
-                                <div class="date">4 Mar 2024</div>
+                                <div class="title">Кластеризация в ML: от теоретических основ популярных алгоритмов к их реализации с нуля на Python</div>
+                                <div class="date">8 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Кластеризация в ML: от теоретических основ популярных алгоритмов к их реализации с нуля на Python</div>
-                                <div class="date">8 Mar 2024</div>
+                                <div class="title">Open Source в финансах. Проект Okama</div>
+                                <div class="date">6 Mar 2024</div>
                             </div>
                         </div>
                     </section>
