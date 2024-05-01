@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Без холивара «переписать все на Go»: проблема переносимости в Python и ее решение</div>
-                                <div class="date">25 Apr 2024</div>
+                                <div class="title">Похоже, я придумал свой алгоритм поиска кратчайшего пути</div>
+                                <div class="date">27 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Похоже, я придумал свой алгоритм поиска кратчайшего пути (upd_1: увы, но нет. upd_2: или да?)</div>
-                                <div class="date">27 Apr 2024</div>
+                                <div class="title">Без холивара «переписать все на Go»: проблема переносимости в Python и ее решение</div>
+                                <div class="date">25 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
