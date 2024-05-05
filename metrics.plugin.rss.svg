@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Похоже, я придумал свой алгоритм поиска кратчайшего пути</div>
-                                <div class="date">27 Apr 2024</div>
+                                <div class="title">На практике пробуем KAN – принципиально новую архитектуру нейросетей</div>
+                                <div class="date">3 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">На практике пробуем KAN – принципиально новую архитектуру нейросетей</div>
-                                <div class="date">3 May 2024</div>
+                                <div class="title">Погружение в метаклассы в Python</div>
+                                <div class="date">29 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Погружение в метаклассы в Python</div>
-                                <div class="date">29 Apr 2024</div>
+                                <div class="title">SVG-виджеты для tcl/tk. Часть I</div>
+                                <div class="date">2 May 2024</div>
                             </div>
                         </div>
                     </section>
