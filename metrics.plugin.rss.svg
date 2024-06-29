@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Он победил LLM RAG: реализуем BM25+ с самых азов</div>
-                                <div class="date">21 Jun 2024</div>
+                                <div class="title">Наш публичный детектор голоса стал быстрее в 3 раза (*), качественнее, устойчивее и теперь работает на 6 000 языках</div>
+                                <div class="date">27 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Анимация доски Гальтона на Python и manim</div>
-                                <div class="date">25 Jun 2024</div>
+                                <div class="title">«Midjourney на коленке, но теперь с S3». Как хранить генерации с промптами в объектном хранилище</div>
+                                <div class="date">28 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Книжная полка разработчика в эпоху интернета и искусственного интеллекта</div>
-                                <div class="date">24 Jun 2024</div>
+                                <div class="title">Ускорение Python в 2 раза с помощью multiprocessing, async и MapReduce</div>
+                                <div class="date">27 Jun 2024</div>
                             </div>
                         </div>
                     </section>
