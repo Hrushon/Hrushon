@@ -29,15 +29,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Феномен Рунге</div>
-                                <div class="date">15 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Я проанализировал 250 комментариев под статьёй о том, как не смог «войти в IT в 35 лет». Вот ваши самые полезные советы</div>
                                 <div class="date">19 Aug 2024</div>
                             </div>
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">Большое руководство по сетям и шифрованию трафика в Linux (часть 1)</div>
                                 <div class="date">16 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">[Перевод] Автоматизация управления ML-экспериментами с помощью СI/CD</div>
+                                <div class="date">19 Aug 2024</div>
                             </div>
                         </div>
                     </section>
