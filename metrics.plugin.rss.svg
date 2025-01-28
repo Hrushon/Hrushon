@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">tuple в CPython – мутабельный! И другие шокирующие детали из C-шной реализации</div>
-                                <div class="date">20 Jan 2025</div>
+                                <div class="title">Брокеры сообщений на практике: как подключиться и пользоваться RabbitMQ в Python</div>
+                                <div class="date">23 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Брокеры сообщений на практике: как подключиться и пользоваться RabbitMQ в Python</div>
-                                <div class="date">23 Jan 2025</div>
+                                <div class="title">Озеро для дата-склада: как мы нырнули в новые методы хранения данных и что из этого вышло</div>
+                                <div class="date">27 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
