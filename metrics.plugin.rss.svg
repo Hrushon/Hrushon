@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NoDPI4Android. Решаем проблему «деградации» YouTube теперь и на Android</div>
-                                <div class="date">30 Jun 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Как понять что свинюшка готова к любви? Определяем через ML</div>
                                 <div class="date">3 Jul 2025</div>
                             </div>
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Перевод] Как я проектирую и разрабатываю реальные расширения для Python на Rust</div>
-                                <div class="date">30 Jun 2025</div>
+                                <div class="title">Как мы научили ИИ читать PDF и экономить сотни рабочих часов: полный кейс создания корпоративного ChatGPT</div>
+                                <div class="date">1 Jul 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Типизация в Python: как аннотации спасают ваш код и ускоряют разработку</div>
+                                <div class="date">4 Jul 2025</div>
                             </div>
                         </div>
                     </section>
