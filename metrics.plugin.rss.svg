@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Полезные конструкции Python, которые упростят работу с данными</div>
-                                <div class="date">27 Aug 2025</div>
+                                <div class="title">Клик без промаха: комбинированный подход в автоматизации Windows-приложений на примере UWP</div>
+                                <div class="date">2 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PEP 723 + uv: однофайловые скрипты с зависимостями</div>
-                                <div class="date">27 Aug 2025</div>
+                                <div class="title">[Перевод] Паттерны проектирования в Python, о которых следует забыть. Часть вторая</div>
+                                <div class="date">30 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ушел в IT за меньшей зарплатой</div>
-                                <div class="date">27 Aug 2025</div>
+                                <div class="title">Arch Linux на ZFS для людей: новый TUI-установщик archinstall_zfs</div>
+                                <div class="date">30 Aug 2025</div>
                             </div>
                         </div>
                     </section>
