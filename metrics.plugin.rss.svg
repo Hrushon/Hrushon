@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Определение положения объектов на изображении: как найти пространственные координаты объекта, используя OpenCV</div>
-                                <div class="date">28 Aug 2025</div>
+                                <div class="title">Особенности Python, о которых вас точно спросят на техническом собеседовании</div>
+                                <div class="date">4 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
