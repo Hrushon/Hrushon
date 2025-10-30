@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Оживляем ESP8266 и ESP32 за 15 минут без программистских заморочек с помощью MicroPython</div>
-                                <div class="date">25 Oct 2025</div>
+                                <div class="title">Ловим «взрослые» сцены на видео: как ИИ помогает редакторам</div>
+                                <div class="date">28 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ловим «взрослые» сцены на видео: как ИИ помогает редакторам</div>
+                                <div class="title">«Манускрипт. Распознать нельзя забыть: как мы научили нейросеть читать рукописи XIX века»</div>
                                 <div class="date">28 Oct 2025</div>
                             </div>
                         </div>
