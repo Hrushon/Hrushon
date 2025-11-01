@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Собираем ANPR-систему на Python: от YOLOv8 и кастомного OCR до INT8-квантизации</div>
-                                <div class="date">24 Oct 2025</div>
+                                <div class="title">Путь к Computer Vision: Чему меня научил простой NLP-классификатор на 5 МБ</div>
+                                <div class="date">25 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Путь к Computer Vision: Чему меня научил простой NLP-классификатор на 5 МБ</div>
-                                <div class="date">25 Oct 2025</div>
+                                <div class="title">CPython простыми словами: всё, что нужно знать начинающему</div>
+                                <div class="date">29 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CPython простыми словами: всё, что нужно знать начинающему</div>
-                                <div class="date">29 Oct 2025</div>
+                                <div class="title">Мы опубликовали silero-tts v5 на русском языке</div>
+                                <div class="date">31 Oct 2025</div>
                             </div>
                         </div>
                     </section>
