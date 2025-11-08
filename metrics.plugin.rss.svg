@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Мы опубликовали silero-tts v5 на русском языке</div>
-                                <div class="date">31 Oct 2025</div>
+                                <div class="title">Как мы воскресили русский NLP и сократили потребление памяти на 90%</div>
+                                <div class="date">6 Nov 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Как мы воскресили русский NLP и сократили потребление памяти на 90%</div>
+                                <div class="title">Особенности Python, о которых вас точно спросят на техническом собеседовании. Часть 2</div>
                                 <div class="date">6 Nov 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Особенности Python, о которых вас точно спросят на техническом собеседовании. Часть 2</div>
+                                <div class="title">Библиотека Python для доступа к данным ЦБ: cbrapi</div>
                                 <div class="date">6 Nov 2025</div>
                             </div>
                         </div>
