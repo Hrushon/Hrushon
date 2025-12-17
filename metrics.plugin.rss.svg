@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Python + Fortran: Когда numpy уже мало, а C++ ещё страшно. Ускоряем код в 150 раз</div>
-                                <div class="date">10 Dec 2025</div>
+                                <div class="title">Google Maps для биржевого стакана: пишем визуализатор данных Московской биржи на Python</div>
+                                <div class="date">16 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ночь, телескоп, ИИ, комета: анализ спектра 3I/ATLAS с собственным Python-pipeline</div>
-                                <div class="date">14 Dec 2025</div>
+                                <div class="title">Python + Fortran: Когда numpy уже мало, а C++ ещё страшно. Ускоряем код в 150 раз</div>
+                                <div class="date">10 Dec 2025</div>
                             </div>
                         </div>
                     </section>
