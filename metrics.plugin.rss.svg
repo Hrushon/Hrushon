@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">[Перевод] Manim: как создавать математические анимации в стиле 3Blue1Brown с помощью Python</div>
+                                <div class="date">22 Dec 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Ускоряем LLM по максимуму. Как я создал кросс-платформенный Flash Attention с поддержкой Turing+ архитектур и не только</div>
                                 <div class="date">16 Dec 2025</div>
                             </div>
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Maps для биржевого стакана: пишем визуализатор данных Московской биржи на Python</div>
-                                <div class="date">16 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Как я уже 5 лет создаю свою макрос-клавиатуру. И почему не бросил этот проект</div>
-                                <div class="date">15 Dec 2025</div>
+                                <div class="title">Как я писал книгу «Python для инженерных задач»</div>
+                                <div class="date">17 Dec 2025</div>
                             </div>
                         </div>
                     </section>
