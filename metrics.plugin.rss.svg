@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">«Джуны старше 50 лет никому не нужны». Как я сменил воинскую службу на IT в 53 года</div>
-                                <div class="date">15 Jan 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Код, за который стыдно: 5 ошибок, которые нельзя допускать в Python</div>
                                 <div class="date">19 Jan 2026</div>
                             </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Макрос-клавиатура которую я делал 5 лет</div>
-                                <div class="date">15 Jan 2026</div>
+                                <div class="title">MCP (КОМПАС-3D + LLM): превращаем САПР в среду для AI-агентов с помощью Python и COM API</div>
+                                <div class="date">21 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MCP (КОМПАС-3D + LLM): превращаем САПР в среду для AI-агентов с помощью Python и COM API</div>
+                                <div class="title">Fine-tuning Qwen-8B под проприетарный синтаксис (CADINP) на одной RTX 3090: опыт инженера-конструктора</div>
                                 <div class="date">21 Jan 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">[Перевод] Rust в действии: допечатка</div>
+                                <div class="date">16 Jan 2026</div>
                             </div>
                         </div>
                     </section>
