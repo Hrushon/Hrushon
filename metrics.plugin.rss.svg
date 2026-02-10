@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CPython — Сборка мусора изнутри, ч.4</div>
-                                <div class="date">2 Feb 2026</div>
+                                <div class="title">Мой локальный агент помнит проект лучше меня. Контекст — 32K токенов. Расскажу, как</div>
+                                <div class="date">9 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AG-UI. Как написать AI ассистента для подбора подарков за 20 минут</div>
-                                <div class="date">5 Feb 2026</div>
+                                <div class="title">Генетическое программирование: от теории к практике</div>
+                                <div class="date">9 Feb 2026</div>
                             </div>
                         </div>
                     </section>
