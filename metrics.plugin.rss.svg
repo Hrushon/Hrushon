@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Рекап для разработчика: как я собрал итоги года на основе GitHub и self-hosted LLM</div>
-                                <div class="date">20 Feb 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">От микроменеджмента до автопилота: 4 стадии рефакторинга AI-кода на примере десктопного приложения</div>
                                 <div class="date">26 Feb 2026</div>
                             </div>
@@ -38,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Как писать юнит-тесты, которые не ломаются</div>
-                                <div class="date">20 Feb 2026</div>
+                                <div class="title">Литания: создаем свой язык программирования с лексером, парсером и интерпретатором</div>
+                                <div class="date">27 Feb 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">От WSGI к ASGI: как Python научился работать с асинхронным вебом</div>
+                                <div class="date">25 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
