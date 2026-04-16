@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Как я уместил весь MLOps-пайплайн в 10 строк</div>
-                                <div class="date">8 Apr 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Как бы я рассказал про линейную регрессию (если б меня кто-то спросил)</div>
                                 <div class="date">9 Apr 2026</div>
                             </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Один скилл, четыре модели — что может пойти не так</div>
-                                <div class="date">8 Apr 2026</div>
+                                <div class="title">Сравнение TTS-моделей на реальных задачах бизнеса: голосовой бот и аудиоподкасты</div>
+                                <div class="date">15 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Обновления функциональности GigaIDE за март 2026</div>
-                                <div class="date">8 Apr 2026</div>
+                                <div class="title">[Перевод] LangChain выпустил Deep Agents. Как это меняет подход к созданию агентных систем</div>
+                                <div class="date">10 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Database-клиент для GigaIDE</div>
+                                <div class="date">14 Apr 2026</div>
                             </div>
                         </div>
                     </section>
