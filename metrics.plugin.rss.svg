@@ -29,15 +29,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Методы обнаружения контуров в изображении: пространственные фильтры</div>
-                                <div class="date">29 Apr 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Как устроен Meshtastic, зачем он нужен и как я подключил его к локальной модели на ноутбуке</div>
                                 <div class="date">3 May 2026</div>
                             </div>
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">Понять Big O раз и навсегда</div>
                                 <div class="date">3 May 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Можно ли заменить диктора open‑source TTS‑моделью: тестируем OmniVoice на русском языке</div>
+                                <div class="date">6 May 2026</div>
                             </div>
                         </div>
                     </section>
