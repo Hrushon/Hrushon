@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">15 Google-аккаунтов и ни рубля на ИИ: пишу VPN-сервис в одиночку</div>
-                                <div class="date">21 May 2026</div>
+                                <div class="title">Байты, нибблы, и подсветка: пишем свой TUI hex-редактор на Python</div>
+                                <div class="date">27 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Байты, нибблы, и подсветка: пишем свой TUI hex-редактор на Python</div>
-                                <div class="date">27 May 2026</div>
+                                <div class="title">Как мы укротили сложный процесс с помощью CQRS и стейт-машин</div>
+                                <div class="date">28 May 2026</div>
                             </div>
                         </div>
                     </section>
