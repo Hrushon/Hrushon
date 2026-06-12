@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Python-проект в 2026: uv, ruff, pyproject.toml. Настраиваем за 5 минут</div>
-                                <div class="date">7 Jun 2026</div>
+                                <div class="title">Ваши тесты медленные не из-за базы данных. Я измерил</div>
+                                <div class="date">10 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Топ-10 вопросов на Python backend собеседовании, которые валят джунов</div>
-                                <div class="date">7 Jun 2026</div>
+                                <div class="title">[Перевод] Claude против краевых случаев: как LLM-агент нашёл баги в NumPy и других Python-библиотеках</div>
+                                <div class="date">10 Jun 2026</div>
                             </div>
                         </div>
                     </section>
