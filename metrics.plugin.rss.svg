@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Перевод] Создаём графику, как будто на дворе 1993 год</div>
-                                <div class="date">15 Jun 2026</div>
+                                <div class="title">Почему мы до сих пор неправильно пишем физические движки и 3D-графику</div>
+                                <div class="date">17 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Почему мы до сих пор неправильно пишем физические движки и 3D-графику</div>
-                                <div class="date">17 Jun 2026</div>
+                                <div class="title">Аудит алгоритмов: как реализация Boyer-Moore с 190K звёзд на GitHub оказалась brute-force</div>
+                                <div class="date">21 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Аудит алгоритмов: как реализация Boyer-Moore с 190K звёзд на GitHub оказалась brute-force</div>
-                                <div class="date">21 Jun 2026</div>
+                                <div class="title">Код в эпоху AI: как перестать бороться за качество и начать контролировать деградацию</div>
+                                <div class="date">17 Jun 2026</div>
                             </div>
                         </div>
                     </section>
