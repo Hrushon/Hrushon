@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Более 100 000 вакансий: полный анализ IT‑рынка России в 2026 году. Кто нас на самом деле нанимает?</div>
-                                <div class="date">24 Aug 2026</div>
+                                <div class="title">«Я собрал приложение за выходные». Почему вайбкодинг в проде опаснее, чем кажется</div>
+                                <div class="date">27 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">«Я собрал приложение за выходные». Почему вайбкодинг в проде опаснее, чем кажется</div>
-                                <div class="date">27 Aug 2026</div>
+                                <div class="title">Находки в опенсорсе: мир питона за август 2026</div>
+                                <div class="date">31 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude, GPT, Qwen, DeepSeek, GigaChat и YandexGPT: какая LLM лучше подходит для создания алго-трейдинг бота</div>
-                                <div class="date">29 Aug 2026</div>
+                                <div class="title">Modbus Connector: как я написал свой отладчик Modbus-шины, потому что существующие меня не устроили</div>
+                                <div class="date">31 Aug 2026</div>
                             </div>
                         </div>
                     </section>
