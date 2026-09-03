@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Как вернуть радость простого программирования: пишем игру для терминала на Python</div>
-                                <div class="date">26 Aug 2026</div>
+                                <div class="title">Мой первый RAG без LangChain</div>
+                                <div class="date">2 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modbus Connector: как я написал свой отладчик Modbus-шины, потому что существующие меня не устроили</div>
-                                <div class="date">31 Aug 2026</div>
+                                <div class="title">Переводим книги нейронками для себя: год спустя. Словари, скорости и почему переводчики всё ещё нужны</div>
+                                <div class="date">1 Sept 2026</div>
                             </div>
                         </div>
                     </section>
