@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Переводим книги нейронками для себя: год спустя. Словари, скорости и почему переводчики всё ещё нужны</div>
-                                <div class="date">1 Sept 2026</div>
+                                <div class="title">Действительно ли Вселенная расширяется? Анализ спектра квазара после 2 миллиардов световых лет пути</div>
+                                <div class="date">2 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Действительно ли Вселенная расширяется? Анализ спектра квазара после 2 миллиардов световых лет пути</div>
+                                <div class="title">Как подключить к LLM вашу документацию и базу знаний</div>
                                 <div class="date">2 Sept 2026</div>
                             </div>
                         </div>
