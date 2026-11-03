@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NoDPI v2.3: они научились собирать фрагментированный ClientHello, а мы научились это исправлять</div>
-                                <div class="date">26 Oct 2026</div>
+                                <div class="title">Я подсвечивал нейроны крохотного ИИ, чтобы понять, когда тот врет</div>
+                                <div class="date">28 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Я подсвечивал нейроны крохотного ИИ, чтобы понять, когда тот врет</div>
-                                <div class="date">28 Oct 2026</div>
+                                <div class="title">Находки в опенсорсе: доклады с большой встречи сообщества, конец опенсорса и питон 3.15; октябрь 2026</div>
+                                <div class="date">2 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">yt-dlp для мамы: как я упаковал консольную утилиту в программу для Windows и на какие грабли наступил</div>
-                                <div class="date">26 Oct 2026</div>
+                                <div class="title">Как мы масштабировали обработку медицинских изображений с помощью Ray. Часть 1</div>
+                                <div class="date">2 Nov 2026</div>
                             </div>
                         </div>
                     </section>
