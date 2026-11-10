@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Находки в опенсорсе: доклады с большой встречи сообщества, конец опенсорса и питон 3.15; октябрь 2026</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">Мошенникам даже не нужно ничего взламывать: я проверил 284 крупных сайта Рунета</div>
+                                <div class="date">8 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Собираем свой аналог Jev на бесплатном GPU в Colab</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">Препарируем мозг Qwen 3.8 27B-1c</div>
+                                <div class="date">7 Nov 2026</div>
                             </div>
                         </div>
                     </section>
