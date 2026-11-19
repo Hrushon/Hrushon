@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Спекулятивный декодинг в проде: сравнение методов в ИИ-ассистенте покупателя на Wildberries</div>
-                                <div class="date">13 Nov 2026</div>
+                                <div class="title">uv.lock не менялся, Dockerfile не менялся, а образ перестал собираться</div>
+                                <div class="date">17 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Нейросеть сделала 3D‑модель по фото. Почему принтер с ней совсем не согласен</div>
-                                <div class="date">14 Nov 2026</div>
+                                <div class="title">tracemalloc видит 44 МБ, процесс занимает 150: куда уходит память многопоточного Python</div>
+                                <div class="date">17 Nov 2026</div>
                             </div>
                         </div>
                     </section>
